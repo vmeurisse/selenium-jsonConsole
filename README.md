@@ -1,6 +1,8 @@
 selenium-jsonConsole
 ====================
 
+[![Build status](https://travis-ci.org/vmeurisse/selenium-jsonConsole.svg?branch=master)](http://travis-ci.org/vmeurisse/selenium-jsonConsole)
+
 Usage
 -----
 
